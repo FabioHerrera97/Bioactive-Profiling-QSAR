@@ -2,4 +2,4 @@
 
 ![image](https://user-images.githubusercontent.com/63893101/185979066-5a1019e4-9b26-438f-858c-cd8a6921c2a5.png)
 
-https://www.sciencedirect.com/science/article/pii/S0308814622018076
+https://doi.org/10.1016/j.foodchem.2022.133845
